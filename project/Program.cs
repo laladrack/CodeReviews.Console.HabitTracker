@@ -2,6 +2,7 @@
 using Microsoft.Data.Sqlite;
 using SQLitePCL;
 
+// main function
 void Main() {
     bool play = true;
     string idStr = "";
